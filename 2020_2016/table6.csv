@@ -1,0 +1,35 @@
+,2016,2020
+attack,52.0,32.0
+call to action,0.0,2.0
+campaign event or info,4.0,2.0
+character traits,2.0,1.0
+covid,0.0,26.0
+endorsement,3.0,1.0
+horserace,2.0,5.0
+media,8.0,8.0
+other,12.0,5.0
+policy issue,14.000000000000002,18.0
+scandal,3.0,0.0
+cited,32.0,18.0
+cited_linked,6.0,15.0
+cited_paraphrased,4.0,4.0
+embedded,15.0,8.0
+embedded_cited,28.999999999999996,37.0
+embedded_paraphrased,4.0,1.0
+linked,1.0,1.0
+paraphrased,8.0,12.0
+paraphrased_linked,1.0,5.0
+conflict,73.0,56.00000000000001
+economic,1.0,7.000000000000001
+human interest,17.0,26.0
+morality,3.0,5.0
+responsibility,6.0,6.0
+3.0,4.0,0.0
+negative,79.0,60.0
+positive,17.0,40.0
+illustration,45.0,30.0
+non-primary source,22.0,15.0
+trigger,34.0,55.00000000000001
+amplifies the tweet,17.0,35.0
+ctiticizes the tweet,43.0,28.000000000000004
+neutral,41.0,37.0
