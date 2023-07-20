@@ -1,0 +1,36 @@
+PUBLISHER,cnn,cnn,fox,fox
+YEAR,2016,2020,2016,2020
+attack,54.0,26.0,44.0,40.0
+call to action,0.0,1.0,0.0,4.0
+campaign event or info,2.0,4.0,12.0,1.0
+character traits,2.0,0.0,0.0,2.0
+covid,0.0,32.0,0.0,19.0
+endorsement,4.0,1.0,0.0,1.0
+horserace,1.0,5.0,6.0,4.0
+media,7.000000000000001,5.0,12.0,11.0
+other,11.0,4.0,18.0,8.0
+policy issue,17.0,23.0,3.0,11.0
+scandal,2.0,0.0,6.0,0.0
+cited,24.0,30.0,59.0,4.0
+cited_linked,7.000000000000001,26.0,0.0,1.0
+cited_paraphrased,6.0,8.0,0.0,0.0
+embedded,13.0,1.0,24.0,18.0
+embedded_cited,36.0,5.0,6.0,74.0
+embedded_paraphrased,5.0,1.0,0.0,1.0
+linked,1.0,1.0,0.0,0.0
+paraphrased,7.000000000000001,20.0,12.0,2.0
+paraphrased_linked,2.0,9.0,0.0,0.0
+conflict,76.0,52.0,59.0,61.0
+economic,1.0,11.0,3.0,2.0
+human interest,11.0,26.0,38.0,27.0
+morality,3.0,6.0,0.0,2.0
+responsibility,8.0,5.0,0.0,8.0
+3.0,4.0,0.0,6.0,0.0
+negative,85.0,59.0,59.0,60.0
+positive,11.0,41.0,35.0,40.0
+illustration,46.0,31.0,38.0,28.000000000000004
+non-primary source,16.0,25.0,41.0,3.0
+trigger,37.0,44.0,21.0,68.0
+amplifies the tweet,21.0,3.0,0.0,72.0
+ctiticizes the tweet,54.0,49.0,3.0,4.0
+neutral,25.0,49.0,97.0,23.0

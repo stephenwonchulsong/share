@@ -1,0 +1,27 @@
+PUBLISHER,cnn,cnn,fox,fox
+YEAR,2016,2020,2016,2020
+4.0,0,1,0,1
+9.0,0,26,0,43
+editorial,9,53,2,2
+hard news,5,10,5,25
+soft news,49,54,13,49
+attack,17,23,8,22
+campaign event or info,6,6,6,2
+character traits,5,4,0,0
+covid,0,33,0,16
+endorsement,2,1,0,1
+horserace,3,9,2,2
+media,7,6,1,16
+other,5,4,2,7
+policy issue,12,29,0,9
+scandal,6,4,1,2
+conflict,54,91,16,57
+economic,3,11,1,0
+human interest,3,12,1,17
+morality,1,0,1,0
+responsibility,2,5,0,3
+3.0,3,0,2,0
+negative,59,108,17,56
+positive,1,11,1,21
+no,50,115,18,59
+yes,13,2,2,18
