@@ -1,0 +1,32 @@
+,STORYGENERICFRAMESDOMINANT,trump_x,trump_y,biden_x,biden_y,All,All_p,TWEETGENERICFRAMESDOMINANT,STORYEMOTIONALFRAMES,TWEETEMOTIONALFRAMES,STORYFACTCHECKSTWEET,SENSATIONALISM,TWEETROLETOTHESTORY,STORYROLETOTWEET
+0,conflict,170,76.92,19,76.0,189,76.83,,,,,,,
+1,economic,13,5.88,0,0.0,13,5.28,,,,,,,
+2,human interest,32,14.48,4,16.0,36,14.63,,,,,,,
+3,responsibility,6,2.71,2,8.0,8,3.25,,,,,,,
+All,conflicteconomichuman interestresponsibility,221,99.99,25,100.0,246,99.99,,,,,,,
+0,,103,60.0,8,48.0,111,74.0,conflict,,,,,,
+1,,1,7.7299999999999995,1,4.0,2,1.33,economic,,,,,,
+2,,16,26.82,7,20.0,23,15.33,human interest,,,,,,
+3,,3,1.82,1,16.0,4,2.67,morality,,,,,,
+4,,8,3.64,2,12.0,10,6.67,responsibility,,,,,,
+All,,131,100.01,19,100.0,150,100.0,conflicteconomichuman interestmoralityresponsibility,,,,,,
+0,,185,83.71,20,80.0,205,83.33,,negative,,,,,
+1,,36,16.29,5,20.0,41,16.67,,positive,,,,,
+All,,221,100.0,25,100.0,246,100.0,,negativepositive,,,,,
+0,,142,64.25,10,40.0,152,61.79,,,negative,,,,
+1,,79,35.75,15,60.0,94,38.21,,,positive,,,,
+All,,221,100.0,25,100.0,246,100.0,,,negativepositive,,,,
+0,,161,72.85000000000001,24,96.0,185,75.2,,,,no,,,
+1,,60,27.150000000000002,1,4.0,61,24.8,,,,yes,,,
+All,,221,100.00000000000001,25,100.0,246,100.0,,,,noyes,,,
+0,,91,69.47,16,88.89,107,71.81,,,,,no,,
+1,,40,30.53,2,11.110000000000001,42,28.19,,,,,yes,,
+All,,131,100.0,18,100.0,149,100.0,,,,,noyes,,
+0,,56,42.75,9,47.370000000000005,65,43.33,,,,,,illustration,
+1,,24,18.32,8,42.11,32,21.33,,,,,,non-primary source,
+2,,51,38.93,2,10.530000000000001,53,35.33,,,,,,trigger,
+All,,131,100.0,19,100.01,150,99.99,,,,,,illustrationnon-primary sourcetrigger,
+0,,22,16.79,4,21.05,26,17.33,,,,,,,amplifies the tweet
+1,,65,49.62,1,5.26,66,44.0,,,,,,,ctiticizes the tweet
+2,,44,33.589999999999996,14,73.68,58,38.67,,,,,,,neutral
+All,,131,100.0,19,99.99000000000001,150,100.0,,,,,,,amplifies the tweetctiticizes the tweetneutral
