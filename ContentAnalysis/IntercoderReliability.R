@@ -35,9 +35,10 @@ dflist <- dflist[dflist != 'coder_id']
 
 #===========================================================================#
 
-#Copy and paste the below code separately from above
+#Copy and paste the code below separately from the above
 #Recommend running tests for interval and nominal separately as well for legibility
-#cycling throuh the list of variables and run Krippendorff's alpha
+
+#Cycling throuh the list of variables and running Krippendorff's alpha
 
 # Analysis for Interval Data:
 for (i in dflist) {
