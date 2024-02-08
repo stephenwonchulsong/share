@@ -1,8 +1,3 @@
-#transposing the data into wide dataset
-#coder_id is the row, now each content id is a column, and the target variable is the value
-wide_data <- pivot_wider(test_data, id_cols = coder_id, names_from = content_id, values_from = ExVar2)
-#removing coder_id column to run Krippendorff's alpha
-
 # Setting up necessary libraries (i.e., tools for testing Krippendorff's alpha)
 #Installing them packages if they are not installed:
 for (p in c("tidyverse", "irr")) {
