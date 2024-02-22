@@ -1,0 +1,4 @@
+NatSound,CNN_x,GoodMorning BadNews_x,NPR_x,Tampa Bay Times_x,The Washington Post_x,UnderTheDeskNews_x,All,CNN_y,GoodMorning BadNews_y,NPR_y,Tampa Bay Times_y,The Washington Post_y,UnderTheDeskNews_y
+no (NatSound),5,15,5,3,13,16,57,35.709999999999994,93.75,29.409999999999997,18.75,61.9,100.0
+yes (NatSound),9,1,12,13,8,0,43,64.29,6.25,70.59,81.25,38.1,0.0
+All,14,16,17,16,21,16,100,,,,,,

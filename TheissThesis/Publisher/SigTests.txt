@@ -1,0 +1,12 @@
+Shots: chi2 = 38.98, p = 0.0
+Graphics: chi2 = 131.65, p = 0.0
+EditsStyle: chi2 = 50.24, p = 0.0
+Broll: chi2 = 50.89, p = 0.0
+NatSound: chi2 = 45.0, p = 0.0
+Audio: chi2 = 12.58, p = 0.03
+Music: chi2 = 39.44, p = 0.0
+Narration: chi2 = 42.49, p = 0.0
+Humor: chi2 = 56.82, p = 0.0
+Offensive: chi2 = 14.97, p = 0.13
+Sourcing: chi2 = 27.27, p = 0.0
+Topic: chi2 = 104.57, p = 0.0

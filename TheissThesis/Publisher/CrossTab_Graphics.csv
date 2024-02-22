@@ -1,0 +1,6 @@
+Graphics,CNN_x,GoodMorning BadNews_x,NPR_x,Tampa Bay Times_x,The Washington Post_x,UnderTheDeskNews_x,All,CNN_y,GoodMorning BadNews_y,NPR_y,Tampa Bay Times_y,The Washington Post_y,UnderTheDeskNews_y
+animations (Graphics),12,1,2,12,9,0,36,85.71,6.25,11.76,75.0,42.86,0.0
+both (Graphics),0,11,1,1,6,1,20,0.0,68.75,5.88,6.25,28.57,6.25
+filters (Graphics),0,4,0,0,1,9,14,0.0,25.0,0.0,0.0,4.760000000000001,56.25
+none (Graphics),2,0,14,3,5,6,30,14.29,0.0,82.35,18.75,23.810000000000002,37.5
+All,14,16,17,16,21,16,100,,,,,,
