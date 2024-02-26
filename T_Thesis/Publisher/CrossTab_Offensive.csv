@@ -1,5 +1,0 @@
-Offensive,CNN_x,GoodMorning BadNews_x,NPR_x,Tampa Bay Times_x,The Washington Post_x,UnderTheDeskNews_x,All,CNN_y,GoodMorning BadNews_y,NPR_y,Tampa Bay Times_y,The Washington Post_y,UnderTheDeskNews_y
-atrocities (Offensive),2,1,5,0,1,1,10,14.29,6.25,29.409999999999997,0.0,4.760000000000001,6.25
-hateful (Offensive),0,0,0,0,1,0,1,0.0,0.0,0.0,0.0,4.760000000000001,0.0
-not offensive (Offensive),12,15,12,16,19,15,89,85.71,93.75,70.59,100.0,90.48,93.75
-All,14,16,17,16,21,16,100,,,,,,

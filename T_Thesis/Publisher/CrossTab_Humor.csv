@@ -1,5 +1,0 @@
-Humor,CNN_x,GoodMorning BadNews_x,NPR_x,Tampa Bay Times_x,The Washington Post_x,UnderTheDeskNews_x,All,CNN_y,GoodMorning BadNews_y,NPR_y,Tampa Bay Times_y,The Washington Post_y,UnderTheDeskNews_y
-nan (Humor),0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,6.25
-no (Humor),14,4,17,15,12,5,67,100.0,25.0,100.0,93.75,57.14,31.25
-yes (Humor),0,12,0,1,9,10,32,0.0,75.0,0.0,6.25,42.86,62.5
-All,14,16,17,16,21,16,100,,,,,,

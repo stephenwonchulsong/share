@@ -1,9 +1,0 @@
-Topic,CNN_x,GoodMorning BadNews_x,NPR_x,Tampa Bay Times_x,The Washington Post_x,UnderTheDeskNews_x,All,CNN_y,GoodMorning BadNews_y,NPR_y,Tampa Bay Times_y,The Washington Post_y,UnderTheDeskNews_y
-Disaster/Accident (Topic),2,1,2,2,1,1,9,14.29,6.25,11.76,12.5,4.760000000000001,6.25
-Economics (Topic),0,4,0,0,0,1,5,0.0,25.0,0.0,0.0,0.0,6.25
-Entertainment/Pop Culture (Topic),1,1,2,4,3,1,12,7.140000000000001,6.25,11.76,25.0,14.29,6.25
-Environmental/Health (Topic),1,0,3,7,4,0,15,7.140000000000001,0.0,17.65,43.75,19.05,0.0
-Political (Topic),4,9,3,1,10,12,39,28.57,56.25,17.65,6.25,47.620000000000005,75.0
-Technology/AI (Topic),0,0,0,2,1,0,3,0.0,0.0,0.0,12.5,4.760000000000001,0.0
-West Bank Conflict (Topic),6,1,7,0,2,1,17,42.86,6.25,41.18,0.0,9.520000000000001,6.25
-All,14,16,17,16,21,16,100,,,,,,
