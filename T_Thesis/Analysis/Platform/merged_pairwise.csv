@@ -1,37 +1,34 @@
 Variable,Contrast,A,B,Paired,Parametric,T,dof,alternative,p-unc,p-corr,p-adjust,BF10,hedges
-Shots,Platform,Instagram Reels,TikTok,False,True,-0.4387904029347369,77.34967391634328,two-sided,0.6620366421581523,1.0,bonf,0.251,-0.09690520328531965
-Shots,Platform,Instagram Reels,YouTube Shorts,False,True,-0.175935307449976,78.18013679744206,two-sided,0.860799684558678,1.0,bonf,0.234,-0.038790794442370276
-Shots,Platform,TikTok,YouTube Shorts,False,True,0.26843293206277313,82.0,two-sided,0.7890402544289127,1.0,bonf,0.235,0.05803946564492461
-Animation,Platform,Instagram Reels,TikTok,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
-Animation,Platform,Instagram Reels,YouTube Shorts,False,True,-0.2358621127437624,82.0,two-sided,0.814127775728945,1.0,bonf,0.233,-0.05099713691734992
-Animation,Platform,TikTok,YouTube Shorts,False,True,-0.2358621127437624,82.0,two-sided,0.814127775728945,1.0,bonf,0.233,-0.05099713691734992
-Filters,Platform,Instagram Reels,TikTok,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
-Filters,Platform,Instagram Reels,YouTube Shorts,False,True,-0.2358621127437624,82.0,two-sided,0.814127775728945,1.0,bonf,0.233,-0.05099713691734992
-Filters,Platform,TikTok,YouTube Shorts,False,True,-0.2358621127437624,82.0,two-sided,0.814127775728945,1.0,bonf,0.233,-0.05099713691734992
+Shots,Platform,Instagram Reels,TikTok,False,True,-0.960508472266091,75.64393058144543,two-sided,0.3398596018693446,1.0,bonf,0.345,-0.2126433334064178
+Shots,Platform,Instagram Reels,YouTube Shorts,False,True,0.036081255886558534,78.59131085440534,two-sided,0.9713090567623881,1.0,bonf,0.231,0.007946266222697302
+Shots,Platform,TikTok,YouTube Shorts,False,True,1.018810425714374,82.0,two-sided,0.31128951662767684,0.9338685498830306,bonf,0.358,0.22028300420349528
+Animation,Platform,Instagram Reels,TikTok,False,True,0.9044087086154419,82.0,two-sided,0.36842821048647734,1.0,bonf,0.325,0.19554753498121993
+Animation,Platform,Instagram Reels,YouTube Shorts,False,True,0.6720508810952531,82.0,two-sided,0.5034404871143097,1.0,bonf,0.277,0.14530808021665467
+Animation,Platform,TikTok,YouTube Shorts,False,True,-0.2309025655951865,82.0,two-sided,0.8179656428506749,1.0,bonf,0.233,-0.049924804010458894
+Filters,Platform,Instagram Reels,TikTok,False,True,-2.7862723501961284,82.0,two-sided,0.006622017705447792,0.019866053116343377,bonf,6.201,-0.6024363594433886
+Filters,Platform,Instagram Reels,YouTube Shorts,False,True,-1.7037179541393102,82.0,two-sided,0.0922209137002866,0.27666274110085975,bonf,0.801,-0.36837089588093436
+Filters,Platform,TikTok,YouTube Shorts,False,True,1.1666172682685638,82.0,two-sided,0.2467466106255776,0.7402398318767328,bonf,0.412,0.2522411923981635
 EditsStyle,Platform,Instagram Reels,TikTok,False,True,0.24184266469142718,82.0,two-sided,0.8095058644067356,1.0,bonf,0.233,0.05229022728683932
 EditsStyle,Platform,Instagram Reels,YouTube Shorts,False,True,0.9377401390388551,82.0,two-sided,0.3511318075035431,1.0,bonf,0.334,0.20275431991662235
 EditsStyle,Platform,TikTok,YouTube Shorts,False,True,0.6945163361480204,82.0,two-sided,0.48932160831491456,1.0,bonf,0.281,0.15016546860306837
-Broll,Platform,Instagram Reels,TikTok,False,True,0.6821448260319937,82.0,two-sided,0.4970697613741156,1.0,bonf,0.279,0.14749055151730983
-Broll,Platform,Instagram Reels,YouTube Shorts,False,True,0.45795051051038893,82.0,two-sided,0.6481992376260461,1.0,bonf,0.249,0.09901617777519132
-Broll,Platform,TikTok,YouTube Shorts,False,True,-0.2234705767213452,82.0,two-sided,0.8237250691781607,1.0,bonf,0.233,-0.048317889912393226
+Broll,Platform,Instagram Reels,TikTok,False,True,-0.4397683781436482,82.0,two-sided,0.6612617628530777,1.0,bonf,0.248,-0.09508491182081825
+Broll,Platform,Instagram Reels,YouTube Shorts,False,True,-0.8922536101660608,82.0,two-sided,0.3748679240658812,1.0,bonf,0.322,-0.19291940953684059
+Broll,Platform,TikTok,YouTube Shorts,False,True,-0.4505222492060769,82.0,two-sided,0.6535228795205947,1.0,bonf,0.249,-0.09741006963689361
 NatSound,Platform,Instagram Reels,TikTok,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
-NatSound,Platform,Instagram Reels,YouTube Shorts,False,True,-0.4361825540042075,82.0,two-sided,0.6638505262578489,1.0,bonf,0.247,-0.09430959965866843
-NatSound,Platform,TikTok,YouTube Shorts,False,True,-0.4361825540042075,82.0,two-sided,0.6638505262578489,1.0,bonf,0.247,-0.09430959965866843
-Audio,Platform,Instagram Reels,TikTok,False,True,-0.319756765413074,82.0,two-sided,0.7499659947008253,1.0,bonf,0.238,-0.0691364940147672
-Audio,Platform,Instagram Reels,YouTube Shorts,False,True,0.2982232272568444,82.0,two-sided,0.7662871560754779,1.0,bonf,0.237,0.06448060087070281
+NatSound,Platform,Instagram Reels,YouTube Shorts,False,True,-1.308547662012623,82.0,two-sided,0.19434341717790912,0.5830302515337273,bonf,0.479,-0.28292879897600537
+NatSound,Platform,TikTok,YouTube Shorts,False,True,-1.308547662012623,82.0,two-sided,0.19434341717790912,0.5830302515337273,bonf,0.479,-0.28292879897600537
+Audio,Platform,Instagram Reels,TikTok,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
+Audio,Platform,Instagram Reels,YouTube Shorts,False,True,0.6175721405934762,82.0,two-sided,0.5385687086732864,1.0,bonf,0.269,0.13352891078526677
 Audio,Platform,TikTok,YouTube Shorts,False,True,0.6175721405934762,82.0,two-sided,0.5385687086732864,1.0,bonf,0.269,0.13352891078526677
-Music,Platform,Instagram Reels,TikTok,False,True,1.308547662012623,82.0,two-sided,0.19434341717790912,0.5830302515337273,bonf,0.479,0.28292879897600537
-Music,Platform,Instagram Reels,YouTube Shorts,False,True,1.0860555629643454,82.0,two-sided,0.2806368272423873,0.8419104817271619,bonf,0.381,0.23482247148575583
-Music,Platform,TikTok,YouTube Shorts,False,True,-0.218726557336965,82.0,two-sided,0.8274065342723298,1.0,bonf,0.232,-0.04729215753312538
-Narration,Platform,Instagram Reels,TikTok,False,True,0.870348076158071,82.0,two-sided,0.3866509922815864,1.0,bonf,0.317,0.18818308497814917
-Narration,Platform,Instagram Reels,YouTube Shorts,False,True,1.3085476620126226,82.0,two-sided,0.19434341717790932,0.583030251533728,bonf,0.479,0.28292879897600526
-Narration,Platform,TikTok,YouTube Shorts,False,True,0.4321899523328767,82.0,two-sided,0.6667377737497167,1.0,bonf,0.247,0.09344633572992335
-Humor,Platform,Instagram Reels,TikTok,False,True,-1.4909364729139403,82.0,two-sided,0.13981511960733528,0.41944535882200584,bonf,0.598,-0.3223641582777849
-Humor,Platform,Instagram Reels,YouTube Shorts,False,True,-1.4909364729139403,82.0,two-sided,0.13981511960733528,0.41944535882200584,bonf,0.598,-0.3223641582777849
-Humor,Platform,TikTok,YouTube Shorts,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
-Offensive,Platform,Instagram Reels,TikTok,False,True,-1.125609297988503,82.0,two-sided,0.26361466005577416,0.7908439801673225,bonf,0.395,-0.2433746175559936
-Offensive,Platform,Instagram Reels,YouTube Shorts,False,True,1.9970795798487921,82.0,two-sided,0.049133398248698446,0.14740019474609534,bonf,1.273,0.4318003412402059
-Offensive,Platform,TikTok,YouTube Shorts,False,True,2.5430054997205245,82.0,two-sided,0.01286967541494751,0.038609026244842526,bonf,3.619,0.5498382005579279
-Sourcing,Platform,Instagram Reels,TikTok,False,True,0.3488004029072351,82.0,two-sided,0.7281331816966874,1.0,bonf,0.24,0.07541618998050588
-Sourcing,Platform,Instagram Reels,YouTube Shorts,False,True,0.6675718492514828,82.0,two-sided,0.5062814016491045,1.0,bonf,0.276,0.14433964235464805
-Sourcing,Platform,TikTok,YouTube Shorts,False,True,0.319756765413074,82.0,two-sided,0.7499659947008253,1.0,bonf,0.238,0.0691364940147672
+Music,Platform,Instagram Reels,TikTok,False,True,1.088563777766786,82.0,two-sided,0.279535326532346,0.838605979597038,bonf,0.381,0.23536478738469438
+Music,Platform,Instagram Reels,YouTube Shorts,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
+Music,Platform,TikTok,YouTube Shorts,False,True,-1.088563777766786,82.0,two-sided,0.279535326532346,0.838605979597038,bonf,0.381,-0.23536478738469443
+Narration,Platform,Instagram Reels,TikTok,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
+Narration,Platform,Instagram Reels,YouTube Shorts,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
+Narration,Platform,TikTok,YouTube Shorts,False,True,0.0,82.0,two-sided,1.0,1.0,bonf,0.228,0.0
+Humor,Platform,Instagram Reels,TikTok,False,True,-0.4779249483626163,82.0,two-sided,0.6339752474435434,1.0,bonf,0.251,-0.10333496865748862
+Humor,Platform,Instagram Reels,YouTube Shorts,False,True,-0.7095143699746645,82.0,two-sided,0.4800179924921125,1.0,bonf,0.284,-0.1534082818537889
+Humor,Platform,TikTok,YouTube Shorts,False,True,-0.2309025655951865,82.0,two-sided,0.8179656428506749,1.0,bonf,0.233,-0.049924804010458894
+Sourcing,Platform,Instagram Reels,TikTok,False,True,-0.8985765548606834,82.0,two-sided,0.37150926206037016,1.0,bonf,0.324,-0.1942865306592686
+Sourcing,Platform,Instagram Reels,YouTube Shorts,False,True,-1.2438528093471326,82.0,two-sided,0.21709783960005855,0.6512935188001756,bonf,0.446,-0.26894074374810173
+Sourcing,Platform,TikTok,YouTube Shorts,False,True,-0.3488004029072351,82.0,two-sided,0.7281331816966874,1.0,bonf,0.24,-0.07541618998050588
