@@ -19,7 +19,7 @@ TempInv-\
 DynImm-\
 RaelImm-\
 Auto\* : D>B\
-Enj\*
+Enj\*: D>B
 ## Interaction
 DynImm-\
 CoPresence-
