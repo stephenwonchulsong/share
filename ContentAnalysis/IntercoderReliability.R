@@ -5,6 +5,7 @@ for (p in c("tidyverse", "irr")) {
     install.packages(p)
   }
 }
+#IRR does not allow missing data
 # Load the libraries
 library(tidyverse)
 library(irr)
